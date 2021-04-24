@@ -4,7 +4,7 @@
 const nuevaString = "Esto es un string";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = "231";
+const nuevoNum = 231;
 
 // Crea una variable booleana:
 const nuevoBool = true;
@@ -17,6 +17,7 @@ const nuevaResta = 10 - 5 === 5;
 function run(){
  console.log("Hola mundo!!")
  console.log("El hola mundo se está ejecutando en la rama development")
+ console.log("Estoy agregando otra rama")
 }
 run()
 
